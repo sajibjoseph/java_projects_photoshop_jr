@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CreateGallery
+comment1.params=filename
+comment1.target=java.io.File\ outputDir(java.lang.String)
+comment2.params=filename
+comment2.target=java.lang.String\ extension(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=pic
+comment4.target=photoshopJr.Picture\ copyImage(photoshopJr.Picture)
+comment5.params=filterName\ originalImage\ outputFilename\ originalFilename\ out\ filter\ numTimes\ params
+comment5.target=void\ runFilter(java.lang.String,\ photoshopJr.Picture,\ java.lang.String,\ java.lang.String,\ java.io.PrintStream,\ java.lang.reflect.Method,\ int,\ int[])
+comment6.params=filterName\ picture\ filename\ originalFilename\ out
+comment6.target=void\ runFilter2(java.lang.String,\ photoshopJr.Picture,\ java.lang.String,\ java.lang.String,\ java.io.PrintStream)
+comment7.params=picture\ file
+comment7.target=void\ saveFile(photoshopJr.Picture,\ java.io.File)
+comment8.params=picture\ output\ filter\ params
+comment8.target=void\ applyFilter(java.io.File,\ java.io.File,\ java.lang.reflect.Method,\ int[])
+numComments=9
